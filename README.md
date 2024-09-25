@@ -1,3 +1,4 @@
+# DATE:
 # Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
@@ -54,8 +55,7 @@ QR_Decomposition(a)
 ```
 
 ## Output
-
-![image](https://github.com/user-attachments/assets/148f39d5-c5f3-479e-9b01-ceea51c6e02b)
+![image](https://github.com/user-attachments/assets/13416a79-58c0-47e0-b5d2-fa8e24f24ff0)
 
 
 
